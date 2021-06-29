@@ -1,0 +1,6 @@
+com\ksmlgl\avro\model\Active.class
+com\ksmlgl\avro\model\ClientIdentifier.class
+com\ksmlgl\util\AvroClassGenerator.class
+com\ksmlgl\avro\model\ClientIdentifier$Builder.class
+com\ksmlgl\util\AvroSchemaBuilder.class
+com\ksmlgl\avro\model\ClientIdentifier$1.class
